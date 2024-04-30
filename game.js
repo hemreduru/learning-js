@@ -1,3 +1,5 @@
+// Basic guess game for learning js
+
 const correctNumber = Math.floor(Math.random() * 10) + 1;
 
 console.log("random sayı:" + correctNumber);
